@@ -1,0 +1,7 @@
+eu/arrowhead/client/provider/RESTHandler.class
+eu/arrowhead/client/provider/RequestVerification.class
+eu/arrowhead/client/provider/FullProviderMain$1.class
+eu/arrowhead/client/provider/OPCUAInteractions.class
+eu/arrowhead/client/provider/FullProviderMain.class
+eu/arrowhead/client/provider/OPCUAConnection.class
+eu/arrowhead/client/provider/FullProviderMain$ServiceRegistryActions.class
