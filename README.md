@@ -14,6 +14,7 @@ The Provider works in the following way:
 * Java JRE/JDK 8+
 * Maven 3.5+
 * Arrowhead core services running, for more info goto [core-java](http://github.com/arrowhead-f)
+* Client-java built, for more information goto [client-java](http://github.com/arrowhead-f/client-java)
 
 This project uses Maven. In order to use it, first download or clone this repository. Then in the root folder of run:
 ```mvn install```
